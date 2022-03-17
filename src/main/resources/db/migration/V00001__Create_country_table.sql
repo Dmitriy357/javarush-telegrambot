@@ -1,0 +1,1 @@
+create table country (id int, name Varchar(30))
